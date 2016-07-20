@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <meta name="ac-discovery" content="s-urbaniak.github.io/images/stress https://github.com/s-urbaniak/stress/releases/download/v0.0.1/stress-0.0.1-{os}-{arch}.{ext}">
+    <meta name="ac-discovery" content="s-urbaniak.github.io/images/stress https://github.com/s-urbaniak/stress/releases/download/v{version}/stress-{version}-{os}-{arch}.{ext}">
     <meta name="ac-discovery-pubkeys" content="s-urbaniak.github.io/images/stress https://s-urbaniak.github.io/images/pubkeys.gpg">
   </head>
 </html>
